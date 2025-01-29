@@ -192,7 +192,7 @@ export const DATA = {
   education: [
     {
       degree: "Bachelor’s Degree in Computer Science",
-      institution: "SRM University, Andhra Pradesh",
+      school: "SRM University, Andhra Pradesh",
       gpa: "8.5/10.0",
       logoUrl: "/srmap.png",
       href: "https://srmap.edu.in/",
