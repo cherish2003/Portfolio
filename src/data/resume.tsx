@@ -125,9 +125,8 @@ export const DATA = {
         "Developed a real-time collaborative whiteboard app using React, Tailwind CSS, Socket.io, Express, and MongoDB.",
       technologies: ["React", "TailwindCSS", "Socket.io", "MongoDB"],
       links: [],
-      image: "",
-      video:
-        "https://private-user-images.githubusercontent.com/88829894/343881283-301224a3-c075-4dc6-90b2-598424b5f01f.mov?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNzkwMDYsIm5iZiI6MTczODE3ODcwNiwicGF0aCI6Ii84ODgyOTg5NC8zNDM4ODEyODMtMzAxMjI0YTMtYzA3NS00ZGM2LTkwYjItNTk4NDI0YjVmMDFmLm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDE5MjUwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3NTk0NzhjNDljZTQxNjVhMjBhY2ZjZjQ5MDEzODg5M2RlZWU1NWQ5MTZjNWFlMDMzZWNhYTkyNzdlNmI0ZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-3laoMzro1uP5LH4M3Lsv182oHCsse8YaADVxCOy5wo",
+      image: "/pixelplank.png",
+      video: "",
     },
     {
       title: "Insightfy",
@@ -138,9 +137,9 @@ export const DATA = {
         "Developed AI-powered file analysis platform using Next.js, TypeScript, Shadcn UI, and Tailwind CSS featuring drag-and-drop uploads, text analysis, and CSV report downloads.",
       technologies: ["Next.js", "TypeScript", "Shadcn UI", "TailwindCSS"],
       links: [],
-      image: "",
+      image: "/insightfy.png",
       video:
-        "https://private-user-images.githubusercontent.com/88829894/350728661-9eea17a4-60fa-4089-9a10-031399f67d09.mov?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNzkwOTYsIm5iZiI6MTczODE3ODc5NiwicGF0aCI6Ii84ODgyOTg5NC8zNTA3Mjg2NjEtOWVlYTE3YTQtNjBmYS00MDg5LTlhMTAtMDMxMzk5ZjY3ZDA5Lm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjMGU2Zjk1M2FiODZhNTZjZjc0ODhiZTE1YWVlODY4NjJjNzQ0ODQwNmU1ZWEwMDE3ZDlmNmFjNTcyMmQ5MTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1M7rEWt_0O1k7D7axf_rEOTmflyb7stdvIjbh1HQzZQ",
+        "",
     },
     {
       title: "Connect",
